@@ -1,0 +1,7 @@
+{
+  "name": "Doc & PDF to Google Forms Converter",
+  "description": "Konversi soal Word dan PDF menjadi kuis Google Form secara otomatis, dilengkapi editor interaktif, ekspor CSV, riwayat konversi, batas waktu 5 menit hitung mundur per nomor, proteksi anti-kecurangan dengan penutupan otomatis, serta notifikasi Email & WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
